@@ -1,0 +1,60 @@
+<Phoenix>
+  <Config ResyncInterval="5">
+    <PacketLogging Enable="False" ClientToPhoenix="False" PhoenixToServer="False" ServerToPhoenix="True" PhoenixToClient="False" />
+    <World FindDistance="8" CleanUpInterval="5" CleanUpDistance="30" />
+  </Config>
+  <Characters>
+    <Character serial="002CEC41" profile="caleb" />
+    <Character serial="0025AAA2" profile="Mage" />
+    <Character serial="0026967A" profile="Necromancer" />
+    <Character serial="00174937" profile="VampireV2" />
+    <Character serial="00268C9C" profile="Default" />
+    <Character serial="00332ACF" profile="Warrior" />
+    <Character serial="00001D79" profile="New Profile Name" />
+    <Character serial="00343F08" profile="VampireV2" />
+    <Character serial="003308A6" profile="Vampire" />
+    <Character serial="0034F6CC" profile="Warrior" />
+    <Character serial="00348AEB" profile="Vampire" />
+    <Character serial="00338567" profile="Craft" />
+    <Character serial="00002965" profile="MonkV1" />
+    <Character serial="001330EA" profile="Vampire" />
+    <Character serial="0024D93F" profile="Paladin" />
+    <Character serial="00345475" profile="RangerV3" />
+    <Character serial="00364D66" profile="Warrior" />
+    <Character serial="001D6505" profile="Vampire" />
+    <Character serial="003818A1" profile="Vampire" />
+    <Character serial="001B6474" profile="Craft" />
+    <Character serial="00381EB5" profile="WarriorV3" />
+    <Character serial="002CAB88" profile="MageV2" />
+    <Character serial="000006F2" profile="Necromancer" />
+    <Character serial="00193991" profile="RangerV3" />
+    <Character serial="003812D5" profile="MagicMiner" />
+    <Character serial="001C8702" profile="Vampire" />
+    <Character serial="000EBBBD" profile="Mage" />
+    <Character serial="0035F615" profile="caleb" />
+    <Character serial="002F8E40" profile="Vampire" />
+    <Character serial="0034DA98" profile="ClericV4" />
+    <Character serial="002571DC" profile="Medik" />
+    <Character serial="001F40E7" profile="MageV2" />
+    <Character serial="00229254" profile="Default" />
+    <Character serial="000ECC09" profile="Vamp" />
+    <Character serial="003227B3" profile="Necromancer" />
+    <Character serial="002CB9E6" profile="Destro" />
+    <Character serial="0033B4C3" profile="Ostro" />
+    <Character serial="00379951" profile="Monk" />
+    <Character serial="00386A3B" profile="NewProfileName" />
+    <Character serial="003395BC" profile="Destro" />
+    <Character serial="00363127" profile="Iska" />
+    <Character serial="0017996A" profile="NewProfileName" />
+    <Character serial="001BCC56" profile="NewProfileName" />
+    <Character serial="001C640A" profile="NewProfileName" />
+    <Character serial="001F6AB1" profile="NewProfileName" />
+  </Characters>
+  <UserSettings AutoHeal="False" HealKlamaku="False">
+    <Watcher ls="-||-" ss="  " />
+    <Config>
+      <CalebSettings AutoHeal="True" HealKlamaku="True" />
+    </Config>
+    <AutoHeal2>True</AutoHeal2>
+  </UserSettings>
+</Phoenix>
